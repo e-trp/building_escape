@@ -1,0 +1,9 @@
+*/Build
+*/Binaries
+*/Intermediate
+*/Saved
+BuildingEscape/Content/StarterContent
+*.VC.db*
+BuildingEscape/.vs/BuildingEscape/v15/Browse.VC.opendb
+BuildingEscape/.vs/BuildingEscape/v15/ipch/AutoPCH/ecc80e6f373581d9/OPENDOOR.ipch
+BuildingEscape/.vs/BuildingEscape/v15/ipch/AutoPCH/3bc14098ffabbe4c/POSITIONREPORT.ipch
